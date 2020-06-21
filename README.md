@@ -15,9 +15,11 @@ Downloading, extracting, and placing the model in the assets folder is managed a
 
 ## Required Installment 
 1. Install Python 
+    
     [Python] (https://www.python.org/downloads/)
     
 2. Install TensorFlow
+    
     [TensorFlow] [https://www.tensorflow.org/install) or (pip install tensorflow)
     
 3. Install Jupyter Notebook
