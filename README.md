@@ -1,14 +1,14 @@
-# Pneumonia-Classification
+# Pneumonia Classification 
 Pneumonia is an infection in one or both lungs. Bacteria, viruses, and fungi cause it. 
 The infection causes inflammation in the air sacs in your lungs, which are called alveoli.
 
 ## Overview
-This is an application to easily detect if the patient suffer from pneumonia illness
+Team DPS3-D is choosing the pneumonia dataset and making the classification platform using the Convolutional Neural Network (CNN) model. The initiation using this kind of dataset is because in the time of the final project given, a condition in the team's country is stroke by COVID19 pandemic. By constructing the pneumonia detector app, it can be used as a quick preliminary examination for further check at the hospital.
 
-## Datasets
-We take datasets from 
+## Dataset
+Our dataset is named Chest X-Ray Images (Pneumonia) by Paul Mooney.
 
-For the details of the datasets, you can visit: 
+For the details of the datasets, you can visit: https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
 
 ## Model
 Downloading, extracting, and placing the model in the assets folder is managed automatically.
