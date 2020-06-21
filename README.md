@@ -8,6 +8,8 @@ Team DPS3-D is choosing the pneumonia dataset and making the classification plat
 ## Dataset
 Our dataset is named Chest X-Ray Images (Pneumonia) by Paul Mooney.
 
+The dataset is organized into 3 folders (train, test, val) and contains subfolders for each image category (Pneumonia/Normal). There are 5,863 X-Ray images (JPEG) and 2 categories (Pneumonia/Normal).
+
 For the details of the datasets, you can visit: https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
 
 ## Model
