@@ -3,6 +3,6 @@ Pneumonia is an infection in one or both lungs. Bacteria, viruses, and fungi cau
 The infection causes inflammation in the air sacs in your lungs, which are called alveoli.
 
 Team members:
-I Putu Bagus Gede PrasetyoRaharja,
+I Putu Bagus Gede Prasetyo Raharja,
 Yuanita Intan Paramitasari,
 Muhammad Irzam Kasyfillah
