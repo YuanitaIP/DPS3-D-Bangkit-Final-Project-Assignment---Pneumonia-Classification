@@ -5,4 +5,4 @@ The infection causes inflammation in the air sacs in your lungs, which are calle
 Team members:
 I Putu Bagus Gede PrasetyoRaharja,
 Yuanita Intan Paramitasari,
-Muhammad Irzam Kasyfillah,
+Muhammad Irzam Kasyfillah
