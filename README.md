@@ -42,7 +42,7 @@ We do two main steps of preprocessing our poor quality of acquired raw images, t
 
 The results show that the CLAHE method yields great improvement on the pre-processing correction for digital chest radiography.
 
-Reference that we use regards to the CLAHE implementation is https://ieeexplore.ieee.org/document/8229130
+For the details about CLAHE implementation, you can read here https://ieeexplore.ieee.org/document/8229130
 
 #### Figure 2. Image before CLAHE
 
@@ -59,7 +59,7 @@ Reference that we use regards to the CLAHE implementation is https://ieeexplore.
 ## Technique Used for Training Model 
 Fine tuning using Convolutional Neural Network (CNN) Mobilenet Architecture.
 
-By using the pre-trained model of Mobilenet architecture, we can gain more accuracy in our model and make the training process much faster
+By using the pre-trained model of Mobilenet architecture, we can gain more accuracy in our model and make the training process much faster.
 
 
 
