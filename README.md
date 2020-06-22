@@ -24,19 +24,56 @@ For the details of the datasets, you can visit: https://www.kaggle.com/paultimot
 ## Context
 The normal chest X-ray (left panel) depicts clear lungs without any areas of abnormal opacification in the image. Bacterial pneumonia (middle) typically exhibits a focal lobar consolidation, in this case in the right upper lobe (white arrows), whereas viral pneumonia (right) manifests with a more diffuse ‘interstitial’ pattern in both lungs.
 
+Figure 1. Illustrative Examples of Chest X-Rays in Patients with Pneumonia
+
 <img src=https://github.com/YuanitaIP/DPS3-D-Bangkit-Final-Project-Assignment---Pneumonia-Classification/blob/master/Illustrative%20Examples%20of%20Chest%20X-Rays%20in%20Patients%20with%20Pneumonia.png>
 
-## Preprocessing
-We do two main steps of preprocessing our poor quality of acquired raw images is by intensity correction of the raw image is encountered by the log-normalization function which adjusts the intensity contrast of the image dynamically. 
+## Technique Used for Preprocessing
+We do two main steps of preprocessing our poor quality of acquired raw images is 
 
-Secondly, the Contrast Limited Adaptive Histogram Equal- ization (CLAHE) method is used for enhancing small details, textures and local contrast of the images. The proposed ap- proach was tested using a radiographic survey phantom and a radiographic chest phantom and compared with conven- tional enhancement methods, such as histogram equalization, unsharp masking, CLAHE. 
+Initially, by doing intensity correction of the raw image is encountered by the log-normalization function which adjusts the intensity contrast of the image dynamically.
+
+Secondly, the Contrast Limited Adaptive Histogram Equalization (CLAHE) method is used for enhancing small details, textures and local contrast of the images. The proposed approach was tested using a radiographic survey phantom and a radiographic chest phantom and compared with conventional enhancement methods, such as histogram equalization, unsharp masking, CLAHE.
 
 The results show that the CLAHE method yields great improvement on the pre-processing correction for digital chest radiography.
 
-## Model
-Downloading, extracting, and placing the model in the assets folder is managed automatically.
+Figure 2. Image before CLAHE
 
-## Required Installment 
+Figure 3. Image after CLAHE
+
+
+## Technique Used for Training Model 
+Fine tuning using Convolutional Neural Network (CNN) Mobilenet Architecture
+
+By using the pre-trained model of Mobilenet architecture, we can gain more accuracy in our model and make the training process much faster
+
+## Result: Baseline CNN Implementation (without improvement)
+
+Validation Accuracy: 81%
+Test Accuracy: 79.16%
+Macro Precision = 87%
+Macro Recall = 72%
+f1 score = 79%
+Fluctuative training (fig 1/top) and loss (fig 2/bottom)
+
+Figure 4. 
+
+## Result: Improvement
+
+Validation Accuracy: 93.75%
+Test Accuracy: 79.96%
+Macro Precision = 88%
+Macro Recall = 73%
+f1 score = 80%
+Stable accuracy after 30 epoch (fig 1 / top)
+Stable loss after 20 epoch (fig 2 / bottom)
+
+Figure 5. 
+
+
+
+
+## Required Instalment 
 1. Install Python 
     
     [Python] (https://www.python.org/downloads/)
@@ -47,18 +84,17 @@ Downloading, extracting, and placing the model in the assets folder is managed a
     
 3. Install Jupyter Notebook
 
+    [Jupyter] 
+
 ## Testing
 Run the tests for this system 
 1. Cloning the repository
 2. Enter to this folder repo
 3. Running code on Jupyter Notebook
 
-## Accuracy Obtained
-According to the final test model, the value of accuracy obtained is:
 
 
-## Technique Used
-Convolutional Neural Network or CNN is being used 
+
 
 ## 
 
