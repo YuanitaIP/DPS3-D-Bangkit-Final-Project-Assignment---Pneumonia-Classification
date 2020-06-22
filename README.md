@@ -63,6 +63,8 @@ Fluctuative training (fig 1/top) and loss (fig 2/bottom)
 
 Figure 4. Accuracy Graph - without improvement
 
+<img src=https://github.com/YuanitaIP/DPS3-D-Bangkit-Final-Project-Assignment---Pneumonia-Classification/blob/master/Accuracy%20Graph%20-%20before%20improvement.pdf>
+
 ## Result: Improvement
 
 Validation Accuracy: 93.75%
