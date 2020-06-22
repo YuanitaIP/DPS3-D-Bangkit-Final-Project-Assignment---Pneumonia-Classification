@@ -34,16 +34,15 @@ The normal chest X-ray (left panel) depicts clear lungs without any areas of abn
 
 
 ## Technique Used for Preprocessing
-We do two main steps of preprocessing our poor quality of acquired raw images is 
+We do two main steps of preprocessing our poor quality of acquired raw images, they are: 
 
-1.  Initially, by doing intensity correction of the raw image is encountered by the log-normalization function which adjusts the            
-    intensity contrast of the image dynamically.
+1.  Initially, by doing intensity correction of the raw image is encountered by the log-normalization function which adjusts the intensity contrast of the image dynamically.
     
-2.  Secondly, the Contrast Limited Adaptive Histogram Equalization (CLAHE) method is used for enhancing small details, textures     
-    and local contrast of the images. The proposed approach was tested using a radiographic survey phantom and a radiographic 
-    chest phantom and compared with conventional enhancement methods, such as histogram equalization, unsharp masking, CLAHE.
+2.  Secondly, the Contrast Limited Adaptive Histogram Equalization (CLAHE) method is used for enhancing small details,textures and local contrast of the images. The proposed approach was tested using a radiographic survey phantom and a radiographic chest phantom and compared with conventional enhancement methods, such as histogram equalization, unsharp masking, CLAHE.
 
 The results show that the CLAHE method yields great improvement on the pre-processing correction for digital chest radiography.
+
+Reference that we use regards to the CLAHE implementation is https://ieeexplore.ieee.org/document/8229130
 
 #### Figure 2. Image before CLAHE
 
@@ -58,7 +57,7 @@ The results show that the CLAHE method yields great improvement on the pre-proce
 
 
 ## Technique Used for Training Model 
-Fine tuning using Convolutional Neural Network (CNN) Mobilenet Architecture
+Fine tuning using Convolutional Neural Network (CNN) Mobilenet Architecture.
 
 By using the pre-trained model of Mobilenet architecture, we can gain more accuracy in our model and make the training process much faster
 
