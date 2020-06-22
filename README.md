@@ -72,8 +72,6 @@ Fluctuative training (fig 1/top) and loss (fig 2/bottom)
 
 <img src=https://github.com/YuanitaIP/DPS3-D-Bangkit-Final-Project-Assignment---Pneumonia-Classification/blob/master/Accuracy%20Graph%20-%20without%20improvement.png>
 
-
-
 ## Result: Improvement
 
 Validation Accuracy: 93.75%
@@ -94,7 +92,6 @@ Stable loss after 20 epoch (fig 2 / bottom)
 
 <img src=https://github.com/YuanitaIP/DPS3-D-Bangkit-Final-Project-Assignment---Pneumonia-Classification/blob/master/Accuracy%20Graph%20-%20with%20improvement%20.png>
 
-
 ## Required Instalment 
 1. Install Python 
     
@@ -108,6 +105,7 @@ Stable loss after 20 epoch (fig 2 / bottom)
 
     [Jupyter] 
 
+
 ## Testing
 Run the tests for this system 
 1. Cloning the repository
@@ -115,6 +113,9 @@ Run the tests for this system
 3. Running code on Jupyter Notebook
 
 ## Team Members
+
+Yuanita Intan Paramitasari
+
 I Putu Bagus Gede Prasetyo Raharja
-Yuanita Intan Paramitasari,
+
 Muhammad Irzam Kasyfillah
