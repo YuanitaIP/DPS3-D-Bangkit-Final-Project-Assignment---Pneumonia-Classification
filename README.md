@@ -8,7 +8,7 @@ By constructing the pneumonia detector app, it can help medical officers to do a
 
 You can access the app through our website at https://pneumonia-bangkit-dps3d.netlify.app/#/predict 
 
-<img src=>
+<img src=https://github.com/YuanitaIP/DPS3-D-Bangkit-Final-Project-Assignment---Pneumonia-Classification/blob/master/Website%20Appearance%20.png>
 
 ## Problem
 Pneumonia is an infection that inflames the air sacs in one or both lungs. The air sacs may fill with fluid or pus (purulent material), causing cough with phlegm or pus, fever, chills, and difficulty breathing. 
@@ -103,23 +103,24 @@ Stable loss after 20 epoch (fig 2 / bottom)
     
 2. Install TensorFlow
     
-    [TensorFlow] [https://www.tensorflow.org/install) or (pip install tensorflow)
+    [TensorFlow] (https://www.tensorflow.org/install) or (pip install tensorflow))
     
 3. Install Jupyter Notebook
 
-    [Jupyter] 
+    [Jupyter] (https://jupyter.org/install)
 
 
 ## Testing
 Run the tests for this system 
 1. Cloning the repository
 2. Enter to this folder repo
-3. Running code on Jupyter Notebook
+3. Running code on Jupyter Notebook or Google Collab
+
 
 ## Team Members
 
-Yuanita Intan Paramitasari
+Yuanita Intan Paramitasari - yuanitaparamita@gmail.com - Github account: YuanitaIP
 
-I Putu Bagus Gede Prasetyo Raharja
+I Putu Bagus Gede Prasetyo Raharja - prasetyo.raharja12@gmail.com - Github account: 
 
-Muhammad Irzam Kasyfillah
+Muhammad Irzam Kasyfillah - irzamkasyfillah@gmail.com - Github account: 
