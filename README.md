@@ -50,25 +50,36 @@ By using the pre-trained model of Mobilenet architecture, we can gain more accur
 ## Result: Baseline CNN Implementation (without improvement)
 
 Validation Accuracy: 81%
+
 Test Accuracy: 79.16%
+
 Macro Precision = 87%
+
 Macro Recall = 72%
+
 f1 score = 79%
+
 Fluctuative training (fig 1/top) and loss (fig 2/bottom)
 
-Figure 4. 
+Figure 4. Accuracy Graph - without improvement
 
 ## Result: Improvement
 
 Validation Accuracy: 93.75%
+
 Test Accuracy: 79.96%
+
 Macro Precision = 88%
+
 Macro Recall = 73%
+
 f1 score = 80%
+
 Stable accuracy after 30 epoch (fig 1 / top)
+
 Stable loss after 20 epoch (fig 2 / bottom)
 
-Figure 5. 
+Figure 5. Accuracy - improvement
 
 
 
