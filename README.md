@@ -56,10 +56,12 @@ The results show that the CLAHE method yields great improvement on the pre-proce
 <img src=https://github.com/YuanitaIP/DPS3-D-Bangkit-Final-Project-Assignment---Pneumonia-Classification/blob/master/image%20after%20CLAHE.jpeg>
 
 
+
 ## Technique Used for Training Model 
 Fine tuning using Convolutional Neural Network (CNN) Mobilenet Architecture
 
 By using the pre-trained model of Mobilenet architecture, we can gain more accuracy in our model and make the training process much faster
+
 
 
 ## Result: Baseline CNN Implementation (without improvement)
