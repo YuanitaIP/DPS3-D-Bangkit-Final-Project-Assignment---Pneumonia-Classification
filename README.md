@@ -32,12 +32,16 @@ The normal chest X-ray (left panel) depicts clear lungs without any areas of abn
 
 <img src=https://github.com/YuanitaIP/DPS3-D-Bangkit-Final-Project-Assignment---Pneumonia-Classification/blob/master/Illustrative%20Examples%20of%20Chest%20X-Rays%20in%20Patients%20with%20Pneumonia.png>
 
+
 ## Technique Used for Preprocessing
 We do two main steps of preprocessing our poor quality of acquired raw images is 
 
-Initially, by doing intensity correction of the raw image is encountered by the log-normalization function which adjusts the intensity contrast of the image dynamically.
-
-Secondly, the Contrast Limited Adaptive Histogram Equalization (CLAHE) method is used for enhancing small details, textures and local contrast of the images. The proposed approach was tested using a radiographic survey phantom and a radiographic chest phantom and compared with conventional enhancement methods, such as histogram equalization, unsharp masking, CLAHE.
+1.  Initially, by doing intensity correction of the raw image is encountered by the log-normalization function which adjusts the            
+    intensity contrast of the image dynamically.
+    
+2.  Secondly, the Contrast Limited Adaptive Histogram Equalization (CLAHE) method is used for enhancing small details, textures     
+    and local contrast of the images. The proposed approach was tested using a radiographic survey phantom and a radiographic 
+    chest phantom and compared with conventional enhancement methods, such as histogram equalization, unsharp masking, CLAHE.
 
 The results show that the CLAHE method yields great improvement on the pre-processing correction for digital chest radiography.
 
@@ -52,11 +56,11 @@ The results show that the CLAHE method yields great improvement on the pre-proce
 <img src=https://github.com/YuanitaIP/DPS3-D-Bangkit-Final-Project-Assignment---Pneumonia-Classification/blob/master/image%20after%20CLAHE.jpeg>
 
 
-
 ## Technique Used for Training Model 
 Fine tuning using Convolutional Neural Network (CNN) Mobilenet Architecture
 
 By using the pre-trained model of Mobilenet architecture, we can gain more accuracy in our model and make the training process much faster
+
 
 ## Result: Baseline CNN Implementation (without improvement)
 
