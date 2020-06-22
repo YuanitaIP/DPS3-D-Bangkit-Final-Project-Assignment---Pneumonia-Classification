@@ -121,6 +121,6 @@ Run the tests for this system
 
 Yuanita Intan Paramitasari - yuanitaparamita@gmail.com - Github account: YuanitaIP
 
-I Putu Bagus Gede Prasetyo Raharja - prasetyo.raharja12@gmail.com - Github account: 
+I Putu Bagus Gede Prasetyo Raharja - prasetyo.raharja12@gmail.com - Github account: guzpr
 
-Muhammad Irzam Kasyfillah - irzamkasyfillah@gmail.com - Github account: 
+Muhammad Irzam Kasyfillah - irzamkasyfillah@gmail.com - Github account: irzamkasyfillah
