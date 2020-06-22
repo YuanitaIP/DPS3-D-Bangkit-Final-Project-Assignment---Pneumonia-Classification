@@ -15,6 +15,8 @@ For the details of the datasets, you can visit: https://www.kaggle.com/paultimot
 ## Context
 The normal chest X-ray (left panel) depicts clear lungs without any areas of abnormal opacification in the image. Bacterial pneumonia (middle) typically exhibits a focal lobar consolidation, in this case in the right upper lobe (white arrows), whereas viral pneumonia (right) manifests with a more diffuse ‘‘interstitial’’ pattern in both lungs.
 
+<img src=https://github.com/YuanitaIP/DPS3-D-Bangkit-Final-Project-Assignment---Pneumonia-Classification/blob/master/Illustrative%20Examples%20of%20Chest%20X-Rays%20in%20Patients%20with%20Pneumonia.png>
+
 ## Model
 Downloading, extracting, and placing the model in the assets folder is managed automatically.
 
