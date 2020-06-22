@@ -24,7 +24,7 @@ For the details of the datasets, you can visit: https://www.kaggle.com/paultimot
 ## Context
 The normal chest X-ray (left panel) depicts clear lungs without any areas of abnormal opacification in the image. Bacterial pneumonia (middle) typically exhibits a focal lobar consolidation, in this case in the right upper lobe (white arrows), whereas viral pneumonia (right) manifests with a more diffuse ‘interstitial’ pattern in both lungs.
 
-Figure 1. Illustrative Examples of Chest X-Rays in Patients with Pneumonia
+#### Figure 1. Illustrative Examples of Chest X-Rays in Patients with Pneumonia
 
 <img src=https://github.com/YuanitaIP/DPS3-D-Bangkit-Final-Project-Assignment---Pneumonia-Classification/blob/master/Illustrative%20Examples%20of%20Chest%20X-Rays%20in%20Patients%20with%20Pneumonia.png>
 
@@ -37,10 +37,13 @@ Secondly, the Contrast Limited Adaptive Histogram Equalization (CLAHE) method is
 
 The results show that the CLAHE method yields great improvement on the pre-processing correction for digital chest radiography.
 
-Figure 2. Image before CLAHE
+#### Figure 2. Image before CLAHE
 
-Figure 3. Image after CLAHE
+<img src=https://github.com/YuanitaIP/DPS3-D-Bangkit-Final-Project-Assignment---Pneumonia-Classification/blob/master/image%20before%20CLAHE.jpeg>
 
+#### Figure 3. Image after CLAHE
+
+<img src=https://github.com/YuanitaIP/DPS3-D-Bangkit-Final-Project-Assignment---Pneumonia-Classification/blob/master/image%20after%20CLAHE.jpeg>
 
 ## Technique Used for Training Model 
 Fine tuning using Convolutional Neural Network (CNN) Mobilenet Architecture
@@ -61,9 +64,9 @@ f1 score = 79%
 
 Fluctuative training (fig 1/top) and loss (fig 2/bottom)
 
-Figure 4. Accuracy Graph - without improvement
+#### Figure 4. Accuracy Graph - without improvement
 
-<img src=https://github.com/YuanitaIP/DPS3-D-Bangkit-Final-Project-Assignment---Pneumonia-Classification/blob/master/Accuracy%20Graph%20-%20before%20improvement.pdf>
+<img src=https://github.com/YuanitaIP/DPS3-D-Bangkit-Final-Project-Assignment---Pneumonia-Classification/blob/master/Accuracy%20Graph%20-%20without%20improvement.png>
 
 ## Result: Improvement
 
@@ -81,10 +84,9 @@ Stable accuracy after 30 epoch (fig 1 / top)
 
 Stable loss after 20 epoch (fig 2 / bottom)
 
-Figure 5. Accuracy - improvement
+#### Figure 5. Accuracy - with improvement
 
-
-
+<img src=https://github.com/YuanitaIP/DPS3-D-Bangkit-Final-Project-Assignment---Pneumonia-Classification/blob/master/Accuracy%20Graph%20-%20with%20improvement%20.png>
 
 ## Required Instalment 
 1. Install Python 
@@ -104,10 +106,6 @@ Run the tests for this system
 1. Cloning the repository
 2. Enter to this folder repo
 3. Running code on Jupyter Notebook
-
-
-
-
 
 ## 
 
