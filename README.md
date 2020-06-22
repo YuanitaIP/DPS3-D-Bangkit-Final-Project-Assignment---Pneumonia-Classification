@@ -42,9 +42,11 @@ The results show that the CLAHE method yields great improvement on the pre-proce
 <img src=https://github.com/YuanitaIP/DPS3-D-Bangkit-Final-Project-Assignment---Pneumonia-Classification/blob/master/image%20before%20CLAHE.jpeg>
 
 
+
 #### Figure 3. Image after CLAHE
 
 <img src=https://github.com/YuanitaIP/DPS3-D-Bangkit-Final-Project-Assignment---Pneumonia-Classification/blob/master/image%20after%20CLAHE.jpeg>
+
 
 
 ## Technique Used for Training Model 
@@ -69,6 +71,7 @@ Fluctuative training (fig 1/top) and loss (fig 2/bottom)
 #### Figure 4. Accuracy Graph - without improvement
 
 <img src=https://github.com/YuanitaIP/DPS3-D-Bangkit-Final-Project-Assignment---Pneumonia-Classification/blob/master/Accuracy%20Graph%20-%20without%20improvement.png>
+
 
 
 ## Result: Improvement
