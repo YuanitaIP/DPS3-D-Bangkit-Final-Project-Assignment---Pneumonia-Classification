@@ -6,6 +6,10 @@ The initiation using pneumonia is because the condition in the time of the final
 
 By constructing the pneumonia detector app, it can help medical officers to do a quick preliminary examination for further lab check at the hospital to determine this patient is suffering from ordinary pneumonia or COVID19-related pneumonia.
 
+You can access the app through our website at https://pneumonia-bangkit-dps3d.netlify.app/#/predict 
+
+<img src=>
+
 ## Problem
 Pneumonia is an infection that inflames the air sacs in one or both lungs. The air sacs may fill with fluid or pus (purulent material), causing cough with phlegm or pus, fever, chills, and difficulty breathing. 
 
