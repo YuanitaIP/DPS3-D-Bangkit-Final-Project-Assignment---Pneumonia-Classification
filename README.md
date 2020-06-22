@@ -41,9 +41,11 @@ The results show that the CLAHE method yields great improvement on the pre-proce
 
 <img src=https://github.com/YuanitaIP/DPS3-D-Bangkit-Final-Project-Assignment---Pneumonia-Classification/blob/master/image%20before%20CLAHE.jpeg>
 
+
 #### Figure 3. Image after CLAHE
 
 <img src=https://github.com/YuanitaIP/DPS3-D-Bangkit-Final-Project-Assignment---Pneumonia-Classification/blob/master/image%20after%20CLAHE.jpeg>
+
 
 ## Technique Used for Training Model 
 Fine tuning using Convolutional Neural Network (CNN) Mobilenet Architecture
@@ -68,6 +70,7 @@ Fluctuative training (fig 1/top) and loss (fig 2/bottom)
 
 <img src=https://github.com/YuanitaIP/DPS3-D-Bangkit-Final-Project-Assignment---Pneumonia-Classification/blob/master/Accuracy%20Graph%20-%20without%20improvement.png>
 
+
 ## Result: Improvement
 
 Validation Accuracy: 93.75%
@@ -88,6 +91,7 @@ Stable loss after 20 epoch (fig 2 / bottom)
 
 <img src=https://github.com/YuanitaIP/DPS3-D-Bangkit-Final-Project-Assignment---Pneumonia-Classification/blob/master/Accuracy%20Graph%20-%20with%20improvement%20.png>
 
+
 ## Required Instalment 
 1. Install Python 
     
@@ -107,9 +111,7 @@ Run the tests for this system
 2. Enter to this folder repo
 3. Running code on Jupyter Notebook
 
-## 
-
-Team members:
-I Putu Bagus Gede Prasetyo Raharja,
+## Team Members
+I Putu Bagus Gede Prasetyo Raharja
 Yuanita Intan Paramitasari,
 Muhammad Irzam Kasyfillah
